@@ -1,5 +1,5 @@
 # 💫 About Me:
-❥ Computer Science Student ଘ(੭ ᐛ )♡<br>❥ Finishing B.S. In Computer Science With A Minor In Data Science<br>❥ Interested In Game Development & Front End Development
+❥ Computer Science Student ଘ(੭ ᐛ )♡<br>❥ Finishing B.S. In Computer Science With A Minor In Data Science In Spring 2026 :)<br>❥ Interested In Game Development & Front End Development
 
 
 ## 🌐 Socials:
