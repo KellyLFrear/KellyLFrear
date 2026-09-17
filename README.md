@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my **M.S. in Computer Science at California State University San Marcos (CSUSM)**. I also earned my **B.S. in Computer Science with a minor in Data Science** from CSUSM.
+Hello! 👋 I'm currently pursuing my **M.S. in Computer Science at California State University San Marcos (CSUSM)**. I also earned my **B.S. in Computer Science with a minor in Data Science** from CSUSM.
 
 I'm interested in building creative, interactive, and user-focused applications, with my current interests including:
 
