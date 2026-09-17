@@ -3,10 +3,7 @@ I'm currently pursuing my **M.S. in Computer Science at California State Univers
 
 I'm interested in building creative, interactive, and user-focused applications, with my current interests including:
 
-❥ Virtual Reality & Extended Reality (VR/XR)
-❥ Game Development, particularly with Unity
-❥ Front-End Development
-❥ Data Science & Machine Learning
+❥ Virtual Reality & Extended Reality (VR/XR)<br>❥ Game Development, particularly with Unity<br>❥ Front-End Development<br>❥ Data Science & Machine Learning
 
 As I continue my graduate studies, I'm interested in expanding the skills I've developed in computer science into interdisciplinary fields such as psychology and medicine. I'm especially interested in exploring how technologies like VR, data science, and machine learning can be applied to research and real-world problems beyond traditional computer science.
 
